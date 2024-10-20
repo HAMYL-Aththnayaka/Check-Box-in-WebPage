@@ -1,0 +1,10 @@
+body{
+    font-family:geneva;
+    font-size:3em;
+}
+#mySubmit{
+    font-size: 0.5em;
+}
+#subresult,#payresult{
+    font-size:12px;
+}
